@@ -1,7 +1,7 @@
 # WeatherForecast
 Code Sample using MVP
 
-This is a simple code that implements the following logic:
+This is a sample code that implements the following logic:
 
 If the user is online:
   - Shows the current weather information
