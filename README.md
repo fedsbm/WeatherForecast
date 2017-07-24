@@ -20,3 +20,5 @@ Weather information source: OpenWeatherMap.org
 - OkHttp - Rest Client for Retrofit (used here for adding a interceptor for caching)
 - OkHttpLoggingInterceptor - Used to log the server connection, mainly used for debug so only logging if is on BuildConfig.DEBUG
 - Glide - Image controller
+
+![Screenshot](screenshot.png)
