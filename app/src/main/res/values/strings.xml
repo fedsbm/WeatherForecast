@@ -1,0 +1,18 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Weather Forecast</string>
+
+    <!-- Forecast Screen -->
+    <string name="forecast_empty_message">Please check your internet connection and try again</string>
+    <string name="forecast_retry_button">Retry</string>
+    <string name="forecast_wind_direction">Wind Direction:</string>
+    <string name="forecast_wind_speed">Wind Speed:</string>
+    <string name="forecast_temperature">Temperature:</string>
+    <string name="forecast_current_condition">Current Condition:</string>
+    <string name="forecast_out_of_date">Forecast for %1$s updated at %2$s \n\nSwipe to refresh</string>
+
+    <!-- Messages -->
+    <string name="internet_unavailable">No internet connection</string>
+    <string name="udapte_failed">Update failed</string>
+    <string name="location_message">Location is necessary</string>
+</resources>

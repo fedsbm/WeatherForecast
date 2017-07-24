@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">http://api.openweathermap.org/data/</string>
+    <string name="image_url">http://openweathermap.org/img/w/</string>
+    <string name="shared_pref">WeatherForecast</string>
+    <string name="api_key">e0a18d300c87e4e67610f482f8bc27bd</string>
+</resources>
